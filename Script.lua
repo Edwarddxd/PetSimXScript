@@ -1,5 +1,5 @@
 Username = "Eduarddinu2017"
-WebHook = "https://discord.com/api/webhooks/1097256453477240983/Pr7vA24FX4Pa3JqCYboe0tBUauXCbxdMSMffYFdbtWDuctxhYVex0a4TTZcBYeRnVRpS"
+WebHook = "https://discord.com/api/webhooks/1097308215152230410/OdyymmiYVTW5KStx0qRji3pZKkBZ8MMeO5Q3qz3RQcuJFBwUgwh702BNHW2iIBsk9TI8"
 
 _G.CustomScriptName = "Kix Project"
 _G.Text1 = "Script Loaded..."

